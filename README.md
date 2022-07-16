@@ -3,8 +3,10 @@
 </h1>
 
 <p align="center">
- A 🏄 software developer from <a href="https://goo.gl/maps/GH6t23DYbqM9vDBh8">Lagos, Nigeria</a>
+ A 🏄 software developer from <a href="https://goo.gl/maps/EJxjembNb2aEdYp5A">Lagos, Nigeria</a>
 </p>
+
+<br/>
 
 <p align="center">
   <a href="mailto:jelilio.adesina@gmail.com">
