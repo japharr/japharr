@@ -22,7 +22,7 @@
   </a>
 </p>
 
-<img width="100%" style="margin:20px 0;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=japharr&" alt="japharr" />
+<img width="50%" style="margin:20px 0;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=japharr&" alt="japharr" />
 
 <!--
 **japharr/japharr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
