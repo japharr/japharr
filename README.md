@@ -20,9 +20,9 @@
   </a>
 </p>
 
-<div align="center">
+<!--div align="center">
     <img width="50%" style="margin:20px 0;" src="https://github-readme-streak-stats.herokuapp.com/?user=japharr&" alt="japharr" />
-</div>
+</div-->
 
 <!--
 **japharr/japharr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
