@@ -6,8 +6,6 @@
  A 🏄 software developer from <a href="https://goo.gl/maps/EJxjembNb2aEdYp5A">Lagos, Nigeria</a>
 </p>
 
-<br/>
-
 <p align="center">
   <a href="mailto:jelilio.adesina@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:jelilio.adesina@gmail.com"/>
@@ -22,7 +20,9 @@
   </a>
 </p>
 
-<img width="50%" style="margin:20px 0;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=japharr&" alt="japharr" />
+<div align="center">
+    <img width="50%" style="margin:20px 0;" src="https://github-readme-streak-stats.herokuapp.com/?user=japharr&" alt="japharr" />
+</div>
 
 <!--
 **japharr/japharr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
